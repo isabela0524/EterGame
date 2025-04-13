@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Card.cpp">
+      <Filter>Source Files\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files\Match &amp; Game</Filter>
+    </ClCompile>
+    <ClCompile Include="GamemodeDistributor.cpp">
+      <Filter>Source Files\Gamemode Management</Filter>
+    </ClCompile>
+    <ClCompile Include="Gamemode.cpp">
+      <Filter>Source Files\Gamemode Management</Filter>
+    </ClCompile>
+    <ClCompile Include="AbstractMage.cpp">
+      <Filter>Source Files\Mage Management</Filter>
+    </ClCompile>
+    <ClCompile Include="AirMage.cpp">
+      <Filter>Source Files\Mage Management\Mages</Filter>
+    </ClCompile>
+    <ClCompile Include="DarkMage.cpp">
+      <Filter>Source Files\Mage Management\Mages</Filter>
+    </ClCompile>
+    <ClCompile Include="EarthMage.cpp">
+      <Filter>Source Files\Mage Management\Mages</Filter>
+    </ClCompile>
+    <ClCompile Include="FireMage.cpp">
+      <Filter>Source Files\Mage Management\Mages</Filter>
+    </ClCompile>
+    <ClCompile Include="IceMage.cpp">
+      <Filter>Source Files\Mage Management\Mages</Filter>
+    </ClCompile>
+    <ClCompile Include="LightMage.cpp">
+      <Filter>Source Files\Mage Management\Mages</Filter>
+    </ClCompile>
+    <ClCompile Include="WaterMage.cpp">
+      <Filter>Source Files\Mage Management\Mages</Filter>
+    </ClCompile>
+    <ClCompile Include="MageDistributor.cpp">
+      <Filter>Source Files\Mage Management</Filter>
+    </ClCompile>
+    <ClCompile Include="Wave.cpp">
+      <Filter>Source Files\Magic Management\MagicPowers</Filter>
+    </ClCompile>
+    <ClCompile Include="Tide.cpp">
+      <Filter>Source Files\Magic Management\MagicPowers</Filter>
+    </ClCompile>
+    <ClCompile Include="Support.cpp">
+      <Filter>Source Files\Magic Management\MagicPowers</Filter>
+    </ClCompile>
+    <ClCompile Include="StormSurge.cpp">
+      <Filter>Source Files\Magic Management\MagicPowers</Filter>
+    </ClCompile>
+    <ClCompile Include="Storm.cpp">
+      <Filter>Source Files\Magic Management\MagicPowers</Filter>
+    </ClCompile>
+    <ClCompile Include="Sparks.cpp">
+      <Filter>Source Files\Magic Management\MagicPowers</Filter>
+    </ClCompile>
+    <ClCompile Include="Mirage.cpp">
+      <Filter>Source Files\Magic Management\MagicPowers</Filter>
+    </ClCompile>
+    <ClCompile Include="Lava.cpp">
+      <Filter>Source Files\Magic Management\MagicPowers</Filter>
+    </ClCompile>
+    <ClCompile Include="Hurricane.cpp">
+      <Filter>Source Files\Magic Management\MagicPowers</Filter>
+    </ClCompile>
+    <ClCompile Include="Gale.cpp">
+      <Filter>Source Files\Magic Management\MagicPowers</Filter>
+    </ClCompile>
+    <ClCompile Include="Fog.cpp">
+      <Filter>Source Files\Magic Management\MagicPowers</Filter>
+    </ClCompile>
+    <ClCompile Include="Flames.cpp">
+      <Filter>Source Files\Magic Management\MagicPowers</Filter>
+    </ClCompile>
+    <ClCompile Include="Earthquake.cpp">
+      <Filter>Source Files\Magic Management\MagicPowers</Filter>
+    </ClCompile>
+    <ClCompile Include="Destruction.cpp">
+      <Filter>Source Files\Magic Management\MagicPowers</Filter>
+    </ClCompile>
+    <ClCompile Include="Crack.cpp">
+      <Filter>Source Files\Magic Management\MagicPowers</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlledExplosion.cpp">
+      <Filter>Source Files\Magic Management\MagicPowers</Filter>
+    </ClCompile>
+    <ClCompile Include="Cascade.cpp">
+      <Filter>Source Files\Magic Management\MagicPowers</Filter>
+    </ClCompile>
+    <ClCompile Include="Boulder.cpp">
+      <Filter>Source Files\Magic Management\MagicPowers</Filter>
+    </ClCompile>
+    <ClCompile Include="Blizzard.cpp">
+      <Filter>Source Files\Magic Management\MagicPowers</Filter>
+    </ClCompile>
+    <ClCompile Include="Avalanche.cpp">
+      <Filter>Source Files\Magic Management\MagicPowers</Filter>
+    </ClCompile>
+    <ClCompile Include="AbstractMagic.cpp">
+      <Filter>Source Files\Magic Management</Filter>
+    </ClCompile>
+    <ClCompile Include="MagicDistributor.cpp">
+      <Filter>Source Files\Magic Management</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>Source Files\Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="Bridge.cpp">
+      <Filter>Source Files\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Board.cpp">
+      <Filter>Source Files\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Match.cpp">
+      <Filter>Source Files\Match &amp; Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Game_UI.cpp">
+      <Filter>Source Files\temp aux</Filter>
+    </ClCompile>
+    <ClCompile Include="Mage.cpp">
+      <Filter>Source Files\temp aux</Filter>
+    </ClCompile>
+    <ClCompile Include="Mages.cpp">
+      <Filter>Source Files\temp aux</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files\Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="Game_UI.cppm">
+      <Filter>Header Files\Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="GameApp.cpp">
+      <Filter>Source Files\Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>Source Files\Utility</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files\Match &amp; Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Card.h">
+      <Filter>Header Files\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Gamemode.h">
+      <Filter>Header Files\Gamemode Management</Filter>
+    </ClInclude>
+    <ClInclude Include="GamemodeDistributor.h">
+      <Filter>Header Files\Gamemode Management</Filter>
+    </ClInclude>
+    <ClInclude Include="AbstractMage.h">
+      <Filter>Header Files\Mage Management</Filter>
+    </ClInclude>
+    <ClInclude Include="AirMage.h">
+      <Filter>Header Files\Mage Management\Mages</Filter>
+    </ClInclude>
+    <ClInclude Include="DarkMage.h">
+      <Filter>Header Files\Mage Management\Mages</Filter>
+    </ClInclude>
+    <ClInclude Include="EarthMage.h">
+      <Filter>Header Files\Mage Management\Mages</Filter>
+    </ClInclude>
+    <ClInclude Include="FireMage.h">
+      <Filter>Header Files\Mage Management\Mages</Filter>
+    </ClInclude>
+    <ClInclude Include="IceMage.h">
+      <Filter>Header Files\Mage Management\Mages</Filter>
+    </ClInclude>
+    <ClInclude Include="LightMage.h">
+      <Filter>Header Files\Mage Management\Mages</Filter>
+    </ClInclude>
+    <ClInclude Include="WaterMage.h">
+      <Filter>Header Files\Mage Management\Mages</Filter>
+    </ClInclude>
+    <ClInclude Include="MageDistributor.h">
+      <Filter>Header Files\Mage Management</Filter>
+    </ClInclude>
+    <ClInclude Include="Avalanche.h">
+      <Filter>Header Files\Magic Management\MagicPowers</Filter>
+    </ClInclude>
+    <ClInclude Include="Blizzard.h">
+      <Filter>Header Files\Magic Management\MagicPowers</Filter>
+    </ClInclude>
+    <ClInclude Include="Boulder.h">
+      <Filter>Header Files\Magic Management\MagicPowers</Filter>
+    </ClInclude>
+    <ClInclude Include="Cascade.h">
+      <Filter>Header Files\Magic Management\MagicPowers</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlledExplosion.h">
+      <Filter>Header Files\Magic Management\MagicPowers</Filter>
+    </ClInclude>
+    <ClInclude Include="Crack.h">
+      <Filter>Header Files\Magic Management\MagicPowers</Filter>
+    </ClInclude>
+    <ClInclude Include="Destruction.h">
+      <Filter>Header Files\Magic Management\MagicPowers</Filter>
+    </ClInclude>
+    <ClInclude Include="Earthquake.h">
+      <Filter>Header Files\Magic Management\MagicPowers</Filter>
+    </ClInclude>
+    <ClInclude Include="Flames.h">
+      <Filter>Header Files\Magic Management\MagicPowers</Filter>
+    </ClInclude>
+    <ClInclude Include="Fog.h">
+      <Filter>Header Files\Magic Management\MagicPowers</Filter>
+    </ClInclude>
+    <ClInclude Include="Gale.h">
+      <Filter>Header Files\Magic Management\MagicPowers</Filter>
+    </ClInclude>
+    <ClInclude Include="Hurricane.h">
+      <Filter>Header Files\Magic Management\MagicPowers</Filter>
+    </ClInclude>
+    <ClInclude Include="Lava.h">
+      <Filter>Header Files\Magic Management\MagicPowers</Filter>
+    </ClInclude>
+    <ClInclude Include="Mirage.h">
+      <Filter>Header Files\Magic Management\MagicPowers</Filter>
+    </ClInclude>
+    <ClInclude Include="Sparks.h">
+      <Filter>Header Files\Magic Management\MagicPowers</Filter>
+    </ClInclude>
+    <ClInclude Include="Storm.h">
+      <Filter>Header Files\Magic Management\MagicPowers</Filter>
+    </ClInclude>
+    <ClInclude Include="StormSurge.h">
+      <Filter>Header Files\Magic Management\MagicPowers</Filter>
+    </ClInclude>
+    <ClInclude Include="Support.h">
+      <Filter>Header Files\Magic Management\MagicPowers</Filter>
+    </ClInclude>
+    <ClInclude Include="Tide.h">
+      <Filter>Header Files\Magic Management\MagicPowers</Filter>
+    </ClInclude>
+    <ClInclude Include="Wave.h">
+      <Filter>Header Files\Magic Management\MagicPowers</Filter>
+    </ClInclude>
+    <ClInclude Include="AbstractMagic.h">
+      <Filter>Header Files\Magic Management</Filter>
+    </ClInclude>
+    <ClInclude Include="MagicDistributor.h">
+      <Filter>Header Files\Magic Management</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Header Files\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerEnum.h">
+      <Filter>Header Files\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="AllMages.h">
+      <Filter>Header Files\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="AllMagicPowers.h">
+      <Filter>Header Files\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Bridge.h">
+      <Filter>Header Files\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Board.h">
+      <Filter>Header Files\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Match.h">
+      <Filter>Header Files\Match &amp; Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Mage.h">
+      <Filter>Header Files\temp aux</Filter>
+    </ClInclude>
+    <ClInclude Include="Mages.h">
+      <Filter>Header Files\temp aux</Filter>
+    </ClInclude>
+    <ClInclude Include="GameApp.h">
+      <Filter>Header Files\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>Header Files\Utility</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{1a6eec79-b4b8-4388-b75b-d29edc79a11b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{86ff8547-e691-4a32-8fb6-45e9402c4508}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{95fe8913-e17f-4da4-96e6-82709eaf0f2a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Gamemode Management">
+      <UniqueIdentifier>{9f9a808e-e1f2-4d50-839e-726eb1fde599}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Match &amp; Game">
+      <UniqueIdentifier>{d825f85c-6c50-45ca-af14-573da2d4c1f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Gamemode Management">
+      <UniqueIdentifier>{5aa5e9f7-6e04-402d-931f-2fa5151ce3ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Match &amp; Game">
+      <UniqueIdentifier>{f7ac6b7e-9e5e-40f7-b2a3-953324e3a5b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Mage Management">
+      <UniqueIdentifier>{e31a43b6-0a34-4fef-bad0-3f6d339e03cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Mage Management">
+      <UniqueIdentifier>{5d1cbe18-d59d-417e-bc1b-e30b1f0152db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Mage Management\Mages">
+      <UniqueIdentifier>{c861b31a-e040-4382-9179-307f436b5a38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Mage Management\Mages">
+      <UniqueIdentifier>{fd330ec4-7a9f-4ff4-9aff-352d18eda0e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Magic Management">
+      <UniqueIdentifier>{b5e08c4a-fa9e-40fa-a47b-47a9b0c02941}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Magic Management">
+      <UniqueIdentifier>{709d8211-1fbd-4023-9e29-ec1895eb2bde}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Magic Management\MagicPowers">
+      <UniqueIdentifier>{d41fda58-5a42-48c6-a068-5d5e1fed3101}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Magic Management\MagicPowers">
+      <UniqueIdentifier>{7bfc9bee-6f0e-4cfa-bedd-4a742106322b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Objects">
+      <UniqueIdentifier>{a99d3b40-6168-4a19-a8a9-ae8b6e5baf86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Utility">
+      <UniqueIdentifier>{5d298b33-4489-40c3-ae93-d70cf1e16740}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Objects">
+      <UniqueIdentifier>{e0fb4a6a-cd05-4a6e-99ab-57afb4b1ebc0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Utility">
+      <UniqueIdentifier>{294cd00d-b2bd-4907-9e8b-c265de572b81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\temp aux">
+      <UniqueIdentifier>{dcde8c64-13d6-4fa5-817b-a6240e3c6af8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\temp aux">
+      <UniqueIdentifier>{1b52e6e4-8bd9-4bac-8879-1801ee7ad5bc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
